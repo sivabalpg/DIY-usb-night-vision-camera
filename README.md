@@ -1,6 +1,6 @@
 # DIY-usb-night-vision-camera
-diy cheap usb night vision camera using a old desktop webcam
-DIY Cheap USB Webcam Night Vision Camera Conversion
+DIY cheap usb night vision camera using a old desktop webcam
+![alt text](http://url/to/img.png)
 
 # Introduction:
 Night vision cameras are essential for surveillance and monitoring in low-light conditions. However, dedicated night vision cameras can be expensive. In this DIY project, we will convert a cheap USB webcam into a night vision camera by disassembling it, removing the IR filter from the lens, and replacing the white LEDs with infrared (IR) LEDs. This project offers an affordable alternative for night vision capabilities using readily available materials.
